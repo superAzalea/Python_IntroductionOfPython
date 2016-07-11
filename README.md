@@ -1,11 +1,11 @@
 # Python_day1-Introduction_of_Python
-#==============================================================================================
+#====================
 ##  Python是什么 ？
      Python 是一种面向对象的解释型（边运行边解释）程序设计语言，号称胶水语言。
 2016年全世界编程语言前20名如下，Python已排名第五。
 ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/1)
 ## Python的优缺点
-     ### Python优点：
+### Python优点：
      (1) 简单、优雅、明确；（Simple, elegant, clear）
      (2) 强大的基础代码库，强大的模块第三方库；
           内置的库涵盖了网络、GUI、数据库、文本、文件等。用Python开发许多功能无需从0开始直接使用现成即可。
@@ -13,36 +13,36 @@
      (3) 易移植；（跨平台的语言）
      (4) 面向对象；
      (5)可扩展（c\java\c#…），很容易通过库结合起来（胶水语言）。
-     ###Python 缺点：
+###Python 缺点：
      (1) 代码不能加密；
      (2)速度慢。
 ## 用Python做什么：
-     ### 软件开发：
+### 软件开发：
      （1）游戏后台、搜索、图形界面的开发（qt支持Python）；
      （2）网站(YouTube\豆瓣等）；
      （3）c/s软件；
      （4）科学运算。
-     ### 系统管理：
+### 系统管理：
      （1）脚本；
      （2）IT自动化的工作。
 ## Python与其它语言（c/c++,java,python,PHP，ruby，go）对比：
-     (1) python、PHP、ruby：动态语言，解释型语言（边运行边解释）；
-          c/c++,java，Go：编译型语言，静态语言。
-     (2) Python与Java的区别
-　　学习起来Python要比Java简单快速的多，java从c++这样的系统语言中继承了很多语法和复杂性，而Python的语法非常简洁，大大提高编写效率。
-     (3) Python与C#语言的区别
-     (4) Python是解释型语言，不需要额外的编译过程，而C#必须编译后执行。另外，Python程序全部是开源的，但是C#就不是了，Python程序可以跨平台，不需要修改就可以运行在Windows和Linux等系统平台。
-     (5) Python & C++,Perl
-     (6) Python比C++等这类语言，更容易学习，语法规则简单，语意化，易读易懂，容易维护。
-     (7) Python & Ruby :Python与Ruby确实有些相似，但是前者比后者更加成熟，语法的可读性是后者没法比的。与Ruby和Java不同的是，面向对象编程在python里不是必选的，这就更加增加了这门语言的灵活性。Ruby语言只适合编写，但是维护的时候你会非常头疼，更不用说多人编写和维护的项目代码了。
+### 动静语言
+     （1）python、PHP、ruby：动态语言，解释型语言（边运行边解释）；
+     （2）c/c++,java，Go：编译型语言，静态语言。
+### Python与Java的区别
+     (1) Python与C#语言的区别
+          Python是解释型语言，不需要额外的编译过程，而C#必须编译后执行。另外，Python程序全部是开源的，但是C#就不是了，Python程序可以跨平台，不需要修改就可以运行在Windows和Linux等系统平台；
+     (2) Python & C++,Perl
+          Python比C++等这类语言，更容易学习，语法规则简单，语意化，易读易懂，容易维护；
+     (3) Python & Ruby :Python与Ruby确实有些相似，但是前者比后者更加成熟，语法的可读性是后者没法比的。与Ruby和Java不同的是，面向对象编程在python里不是必选的，这就更加增加了这门语言的灵活性。Ruby语言只适合编写，但是维护的时候你会非常头疼，更不用说多人编写和维护的项目代码了。
 ## Python初使用
-     ### python安装：
+### python安装：
           http://www.runoob.com/python/python-install.html
-     ### 版本   2.75，2.4，3.0，3.4
+### 版本   2.75，2.4，3.0，3.4
           2.4：最广泛应用
           2.75：工业版
           3.0：2008年，与2.4不兼容；
-     ### unix\linux默认安装Python，在终端输入：Python，来查看版本：
+### unix\linux默认安装Python，在终端输入：Python，来查看版本：
      (1) Mac下：
      ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/2)
      (2) Ubuntu14.04下：
@@ -51,10 +51,10 @@
           无自带python.
      portable python:不需要安装
 ## 我的第一个Python程序（ hello world:）
-     ### 交互器
+### 交互器
          ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/4)
          退出可以输入exit()或者quit()或者Ctrl+D。
-     ### 脚本
+### 脚本
      (1) python解释器
           *  CPython:
                一种用C语言来完成Python的解释器。他把Python代码编译成字节码，然后再通过一个虚拟机去解释。CPython提供了最高水准的Python包和C语言扩展模块的兼容。
@@ -76,5 +76,5 @@
             ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/6)
           运行：
             ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/7)
-#==============================================================================================
+#==============================
 
