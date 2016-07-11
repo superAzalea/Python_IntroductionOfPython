@@ -1,21 +1,21 @@
 # Python_day1-Introduction_of_Python
-＃－－－－－－－－－－－－－－－－
+##－－－－－－－－－－－－－－－－
 ##  Python是什么 ？
      Python 是一种面向对象的解释型（边运行边解释）程序设计语言，号称胶水语言。
 2016年全世界编程语言前20名如下，Python已排名第五。
 ![ABC](https://github.com/superAzalea/Python_day1-Introduction_of_Python/blob/master/images/1)
 ## Python的优缺点
-     ### Python优点：
-*1 简单、优雅、明确；（Simple, elegant, clear）
-*2强大的基础代码库，强大的模块第三方库；
+     1 Python优点：
+(1) 简单、优雅、明确；（Simple, elegant, clear）
+(2) 强大的基础代码库，强大的模块第三方库；
           内置的库涵盖了网络、GUI、数据库、文本、文件等。用Python开发许多功能无需从0开始直接使用现成即可。
           你可以使用别人开发的第三方库，也可以封装自己的库给别人使用。
-*3易移植；（跨平台的语言）
-*4面向对象；
-*5可扩展（c\java\c#…），很容易通过库结合起来（胶水语言）。
-### Python 缺点：
-*1 代码不能加密；
-*2速度慢。
+(3) 易移植；（跨平台的语言）
+(4) 面向对象；
+(5)可扩展（c\java\c#…），很容易通过库结合起来（胶水语言）。
+     2 Python 缺点：
+(1) 代码不能加密；
+(2)速度慢。
 ## 用Python做什么：
 ### 软件开发：
      （1）游戏后台、搜索、图形界面的开发（qt支持Python）；
